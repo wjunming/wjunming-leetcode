@@ -1,5 +1,8 @@
 package com.wjunming.linkedlist;
 
+/**
+ * 单链表
+ */
 public class ListNode {
 
     int val;
